@@ -1,0 +1,50 @@
+[
+  {
+    "first_name": "Lucy",
+    "last_name": "Chen",
+    "id": "1511",
+    "email": "lucychen@gmail.com"
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Kamau",
+    "id": "1542",
+    "email": "mk@gmail.com"
+  },
+  {
+    "first_name": "Rick",
+    "last_name": "Akivi",
+    "id": "6587",
+    "email": "ra@gmail.com"
+  },
+  {
+    "first_name": "Ray",
+    "last_name": "Charles",
+    "id": "5487",
+    "email": "raycharles@gmail.com"
+  },
+  {
+    "first_name": "Paul",
+    "last_name": "Mveko",
+    "id": "4585",
+    "email": "paulmveko@gmail.com"
+  },
+  {
+    "first_name": "Peter",
+    "last_name": "Masevo",
+    "id": "4596",
+    "email": "petermasevo@gmail.com"
+  },
+  {
+    "first_name": "James",
+    "last_name": "Rivers",
+    "id": "6541",
+    "email": "jamesrivers@gmail.com"
+  },
+  {
+    "first_name": "John",
+    "last_name": "Kamau",
+    "id": "4587",
+    "email": "jkamau@gmail.com"
+  }
+]
