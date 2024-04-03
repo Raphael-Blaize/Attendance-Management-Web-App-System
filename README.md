@@ -23,7 +23,11 @@ Welcome to ASO(Attendance Management Online), a sophisticated program and <a hre
 
 ## View Project in action
 <a href = "http://localhost:3000/attendance.html">Attendance Managementt</a>
-<h1>(for now ypu need to connect to the server through terminal)</h1>
+```CLI(Command Line Interface)
+(for now ypu need to connect to the server through terminal)
+node server.js
+```
+
 
 
 ## 👨🏻‍💻 Technologies Used
