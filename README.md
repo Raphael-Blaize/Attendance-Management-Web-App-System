@@ -22,7 +22,7 @@ node server.js # This will provide the LocalHost in-order to view the webpage on
 Welcome to ASO(Attendance Management Online), a sophisticated program and <a href = "http://localhost:3000/attendance.html">Web solution</a> crafted for seamless student attendance processing in academic institutions. Experience unparalleled efficiency in managing student details, attendace, and generating meticulously designed dashboard to show progress for your students.
 
 ## View Project in action
-<a href = "http://localhost:3000/attendance.html">Attendance Management</a>
+<a href = "http://localhost:3000/attendance.html">Attendance Managemen(for now ypu need to connect to the server through terminal)t</a>
 
 
 ## 👨🏻‍💻 Technologies Used
